@@ -1,49 +1,25 @@
-# Hi there 👋, I'm Muhammad Zaneba
+# Hi there, I'm Muhammad Zaneba Adida
 
-🎓 Student of **Information Systems** at Universitas Islam Kalimantan  
-💻 Passionate about **Java & Web Development**, building **desktop & web apps**  
-🌐 Developing projects with **HTML, CSS, JavaScript, and PHP**  
-🌱 Currently working on **student & grades management systems with MySQL**  
-✈️ Love **traveling** and swimming 🏊  
-🍵 Always fueled by **matcha**
+🎓 Student of **Information Systems** at Universitas Islam Kalimantan Muhammad Arsyad Al Banjari  
+💻 Passionate about **Web Development**  
+🌐 Developing projects with **HTML, CSS, JavaScript, PHP, Laravel**
 
 ---
 
-## 🛠️ Skills
+## Tech Stack
 
-**Languages:** Java, JavaScript, PHP, HTML, CSS  
-**Frameworks / Libraries:** PyQt5  
-**Database & Tools:** MySQL, Git, VS Code, NetBeans  
-**Other:** GitHub Pages, REST API, Desktop & Web Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
 ---
 
-## 💼 Projects
+## Contact Me
 
-| Project                       | Description                                                      | Link                                                               |
-| ----------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **Student Management App**    | Desktop & web app to manage students & grades with MySQL backend | [GitHub](https://github.com/muhammadzaneba/student-management-app) |
-| **Personal Portfolio**        | Portfolio website built with HTML, CSS, JS                       | [Live Demo](https://mzaneba.github.io)                             |
-| **Chicken Noodle Recipe App** | Fun web project showcasing favorite recipes                      | [GitHub](https://github.com/muhammadzaneba/recipe-app)             |
-
----
-
-## 📊 GitHub Stats
-
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzaneba&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: muhammadzaneba01@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/mzaneba](https://linkedin.com/in/mzaneba)
-- 🌐 Portfolio: [mzaneba.github.io](https://mzaneba.github.io)
+![https://github.com/mzaneba](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.linkedin.com/in/muhammad-zaneba-adida/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/mhmd.znba?igsh=MWM0b3A0N3FtaGdjYg%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://wa.me/6282351612171](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
